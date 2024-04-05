@@ -1,0 +1,209 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projects\\VisualStudio\\Andrusenko_Lab4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{00D58302-4CE0-4613-8714-FACB937EE1C5}|Andrusenko_Lab4\\Andrusenko_Lab4.csproj|d:\\projects\\visualstudio\\andrusenko_lab4\\andrusenko_lab4\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{00D58302-4CE0-4613-8714-FACB937EE1C5}|Andrusenko_Lab4\\Andrusenko_Lab4.csproj|solutionrelative:andrusenko_lab4\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00D58302-4CE0-4613-8714-FACB937EE1C5}|Andrusenko_Lab4\\Andrusenko_Lab4.csproj|d:\\projects\\visualstudio\\andrusenko_lab4\\andrusenko_lab4\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00D58302-4CE0-4613-8714-FACB937EE1C5}|Andrusenko_Lab4\\Andrusenko_Lab4.csproj|solutionrelative:andrusenko_lab4\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00D58302-4CE0-4613-8714-FACB937EE1C5}|Andrusenko_Lab4\\Andrusenko_Lab4.csproj|d:\\projects\\visualstudio\\andrusenko_lab4\\andrusenko_lab4\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00D58302-4CE0-4613-8714-FACB937EE1C5}|Andrusenko_Lab4\\Andrusenko_Lab4.csproj|solutionrelative:andrusenko_lab4\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00D58302-4CE0-4613-8714-FACB937EE1C5}|Andrusenko_Lab4\\Andrusenko_Lab4.csproj|d:\\projects\\visualstudio\\andrusenko_lab4\\andrusenko_lab4\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{00D58302-4CE0-4613-8714-FACB937EE1C5}|Andrusenko_Lab4\\Andrusenko_Lab4.csproj|solutionrelative:andrusenko_lab4\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00D58302-4CE0-4613-8714-FACB937EE1C5}|Andrusenko_Lab4\\Andrusenko_Lab4.csproj|d:\\projects\\visualstudio\\andrusenko_lab4\\andrusenko_lab4\\views\\addpersonwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00D58302-4CE0-4613-8714-FACB937EE1C5}|Andrusenko_Lab4\\Andrusenko_Lab4.csproj|solutionrelative:andrusenko_lab4\\views\\addpersonwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00D58302-4CE0-4613-8714-FACB937EE1C5}|Andrusenko_Lab4\\Andrusenko_Lab4.csproj|d:\\projects\\visualstudio\\andrusenko_lab4\\andrusenko_lab4\\views\\addpersonwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{00D58302-4CE0-4613-8714-FACB937EE1C5}|Andrusenko_Lab4\\Andrusenko_Lab4.csproj|solutionrelative:andrusenko_lab4\\views\\addpersonwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00D58302-4CE0-4613-8714-FACB937EE1C5}|Andrusenko_Lab4\\Andrusenko_Lab4.csproj|d:\\projects\\visualstudio\\andrusenko_lab4\\andrusenko_lab4\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00D58302-4CE0-4613-8714-FACB937EE1C5}|Andrusenko_Lab4\\Andrusenko_Lab4.csproj|solutionrelative:andrusenko_lab4\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00D58302-4CE0-4613-8714-FACB937EE1C5}|Andrusenko_Lab4\\Andrusenko_Lab4.csproj|d:\\projects\\visualstudio\\andrusenko_lab4\\andrusenko_lab4\\tools\\exceptions\\dateisinfarpastexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00D58302-4CE0-4613-8714-FACB937EE1C5}|Andrusenko_Lab4\\Andrusenko_Lab4.csproj|solutionrelative:andrusenko_lab4\\tools\\exceptions\\dateisinfarpastexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00D58302-4CE0-4613-8714-FACB937EE1C5}|Andrusenko_Lab4\\Andrusenko_Lab4.csproj|d:\\projects\\visualstudio\\andrusenko_lab4\\andrusenko_lab4\\tools\\exceptions\\dateisinfutureexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00D58302-4CE0-4613-8714-FACB937EE1C5}|Andrusenko_Lab4\\Andrusenko_Lab4.csproj|solutionrelative:andrusenko_lab4\\tools\\exceptions\\dateisinfutureexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00D58302-4CE0-4613-8714-FACB937EE1C5}|Andrusenko_Lab4\\Andrusenko_Lab4.csproj|d:\\projects\\visualstudio\\andrusenko_lab4\\andrusenko_lab4\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00D58302-4CE0-4613-8714-FACB937EE1C5}|Andrusenko_Lab4\\Andrusenko_Lab4.csproj|solutionrelative:andrusenko_lab4\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 335,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\Projects\\VisualStudio\\Andrusenko_Lab4\\Andrusenko_Lab4\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Andrusenko_Lab4\\MainWindow.xaml",
+              "ToolTip": "D:\\Projects\\VisualStudio\\Andrusenko_Lab4\\Andrusenko_Lab4\\MainWindow.xaml",
+              "RelativeToolTip": "Andrusenko_Lab4\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-05T14:07:57.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "D:\\Projects\\VisualStudio\\Andrusenko_Lab4\\Andrusenko_Lab4\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "Andrusenko_Lab4\\AssemblyInfo.cs",
+              "ToolTip": "D:\\Projects\\VisualStudio\\Andrusenko_Lab4\\Andrusenko_Lab4\\AssemblyInfo.cs",
+              "RelativeToolTip": "Andrusenko_Lab4\\AssemblyInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T14:07:52.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "D:\\Projects\\VisualStudio\\Andrusenko_Lab4\\Andrusenko_Lab4\\App.xaml.cs",
+              "RelativeDocumentMoniker": "Andrusenko_Lab4\\App.xaml.cs",
+              "ToolTip": "D:\\Projects\\VisualStudio\\Andrusenko_Lab4\\Andrusenko_Lab4\\App.xaml.cs",
+              "RelativeToolTip": "Andrusenko_Lab4\\App.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T14:07:44.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.xaml",
+              "DocumentMoniker": "D:\\Projects\\VisualStudio\\Andrusenko_Lab4\\Andrusenko_Lab4\\App.xaml",
+              "RelativeDocumentMoniker": "Andrusenko_Lab4\\App.xaml",
+              "ToolTip": "D:\\Projects\\VisualStudio\\Andrusenko_Lab4\\Andrusenko_Lab4\\App.xaml",
+              "RelativeToolTip": "Andrusenko_Lab4\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-05T14:07:41.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AddPersonWindow.xaml.cs",
+              "DocumentMoniker": "D:\\Projects\\VisualStudio\\Andrusenko_Lab4\\Andrusenko_Lab4\\Views\\AddPersonWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Andrusenko_Lab4\\Views\\AddPersonWindow.xaml.cs",
+              "ToolTip": "D:\\Projects\\VisualStudio\\Andrusenko_Lab4\\Andrusenko_Lab4\\Views\\AddPersonWindow.xaml.cs",
+              "RelativeToolTip": "Andrusenko_Lab4\\Views\\AddPersonWindow.xaml.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAiwAYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T14:07:27.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AddPersonWindow.xaml",
+              "DocumentMoniker": "D:\\Projects\\VisualStudio\\Andrusenko_Lab4\\Andrusenko_Lab4\\Views\\AddPersonWindow.xaml",
+              "RelativeDocumentMoniker": "Andrusenko_Lab4\\Views\\AddPersonWindow.xaml",
+              "ToolTip": "D:\\Projects\\VisualStudio\\Andrusenko_Lab4\\Andrusenko_Lab4\\Views\\AddPersonWindow.xaml",
+              "RelativeToolTip": "Andrusenko_Lab4\\Views\\AddPersonWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-05T14:07:16.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\Projects\\VisualStudio\\Andrusenko_Lab4\\Andrusenko_Lab4\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Andrusenko_Lab4\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\Projects\\VisualStudio\\Andrusenko_Lab4\\Andrusenko_Lab4\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Andrusenko_Lab4\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T14:06:22.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DateIsInFutureException.cs",
+              "DocumentMoniker": "D:\\Projects\\VisualStudio\\Andrusenko_Lab4\\Andrusenko_Lab4\\Tools\\Exceptions\\DateIsInFutureException.cs",
+              "RelativeDocumentMoniker": "Andrusenko_Lab4\\Tools\\Exceptions\\DateIsInFutureException.cs",
+              "ToolTip": "D:\\Projects\\VisualStudio\\Andrusenko_Lab4\\Andrusenko_Lab4\\Tools\\Exceptions\\DateIsInFutureException.cs",
+              "RelativeToolTip": "Andrusenko_Lab4\\Tools\\Exceptions\\DateIsInFutureException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T14:06:49.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DateIsInFarPastException.cs",
+              "DocumentMoniker": "D:\\Projects\\VisualStudio\\Andrusenko_Lab4\\Andrusenko_Lab4\\Tools\\Exceptions\\DateIsInFarPastException.cs",
+              "RelativeDocumentMoniker": "Andrusenko_Lab4\\Tools\\Exceptions\\DateIsInFarPastException.cs",
+              "ToolTip": "D:\\Projects\\VisualStudio\\Andrusenko_Lab4\\Andrusenko_Lab4\\Tools\\Exceptions\\DateIsInFarPastException.cs",
+              "RelativeToolTip": "Andrusenko_Lab4\\Tools\\Exceptions\\DateIsInFarPastException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T14:06:48.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Person.cs",
+              "DocumentMoniker": "D:\\Projects\\VisualStudio\\Andrusenko_Lab4\\Andrusenko_Lab4\\Models\\Person.cs",
+              "RelativeDocumentMoniker": "Andrusenko_Lab4\\Models\\Person.cs",
+              "ToolTip": "D:\\Projects\\VisualStudio\\Andrusenko_Lab4\\Andrusenko_Lab4\\Models\\Person.cs",
+              "RelativeToolTip": "Andrusenko_Lab4\\Models\\Person.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T14:05:10.06Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 65,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{68487888-204a-11d3-87eb-00c04f7971a5}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
